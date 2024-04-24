@@ -1,6 +1,6 @@
-**California Housing Market Data Mining Project
+**California Housing Market Data Mining Project**
 
-Overview**
+**Overview**
 
 This project aims to extract and analyze data on the California housing market to reveal insights on key metrics that determine housing prices. Various modeling techniques were employed, including split, test, train, linear regression, random forest regressor, and gridsearch with cross-validation.
 
